@@ -1,0 +1,12 @@
+{
+  "name": "pc-tyls-ghost",
+  "version": "1.0.0",
+  "description": "ghost content",
+  "main": "index.js",
+  "repository": "https://gitee.com/yangyao2/pc-tyls-ghost.git",
+  "author": "yangyao <873242789@qq.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "zip -r dist/content.zip apps data images logs settings themes"
+  }
+}
