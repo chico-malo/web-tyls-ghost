@@ -7,6 +7,6 @@
   "author": "yangyao <873242789@qq.com>",
   "license": "MIT",
   "scripts": {
-    "build": "zip -r dist/content.zip apps data images logs settings themes"
+    "build": "rm -rf dist/* && zip -r dist/content.zip apps data images logs settings themes"
   }
 }
