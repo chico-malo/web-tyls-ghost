@@ -1,0 +1,5 @@
+{"name":"Log","hostname":"c634c47103bf","pid":1,"level":40,"msg":"Ghost has shut down","time":"2021-08-31T09:47:31.793Z","v":0}
+{"name":"Log","hostname":"c634c47103bf","pid":1,"level":30,"msg":"Ghost is running in production...","time":"2021-08-31T09:47:56.661Z","v":0}
+{"name":"Log","hostname":"c634c47103bf","pid":1,"level":30,"msg":"Your site is now available on http://tyls.xyz:3001/","time":"2021-08-31T09:47:56.662Z","v":0}
+{"name":"Log","hostname":"c634c47103bf","pid":1,"level":30,"msg":"Ctrl+C to shut down","time":"2021-08-31T09:47:56.664Z","v":0}
+{"name":"Log","hostname":"c634c47103bf","pid":1,"level":30,"msg":"Ghost boot 22.358s","time":"2021-08-31T09:47:56.667Z","v":0}
